@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons8-instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Beevy-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Beevy-Homepage-Studenten" transform="translate(-1832.000000, -4768.000000)" fill-rule="nonzero">
+            <g id="icons8-instagram" transform="translate(1832.000000, 4768.000000)">
+                <circle id="Oval" fill="#000000" cx="9" cy="9" r="3"></circle>
+                <path d="M12.74925,0 L5.24925,0 C2.355,0 0,2.35575 0,5.25075 L0,12.75075 C0,15.645 2.35575,18 5.25075,18 L12.75075,18 C15.645,18 18,15.64425 18,12.74925 L18,5.24925 C18,2.355 15.64425,0 12.74925,0 Z M9,13.5 C6.51825,13.5 4.5,11.48175 4.5,9 C4.5,6.51825 6.51825,4.5 9,4.5 C11.48175,4.5 13.5,6.51825 13.5,9 C13.5,11.48175 11.48175,13.5 9,13.5 Z M14.25,4.5 C13.836,4.5 13.5,4.164 13.5,3.75 C13.5,3.336 13.836,3 14.25,3 C14.664,3 15,3.336 15,3.75 C15,4.164 14.664,4.5 14.25,4.5 Z" id="Shape" fill="#161616"></path>
+            </g>
+        </g>
+    </g>
+</svg>
