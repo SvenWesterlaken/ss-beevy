@@ -1,7 +1,7 @@
-<% if $pageTypeName == 'ChallengePage' %>
-<div class="header-menu black">
-<% else %>
+<% if $pageTypeName == 'HomePage' %>
 <div class="header-menu">
+<% else %>
+<div class="header-menu black">
 <% end_if %>
   <div class="header-logo" src="$BaseURL/images/svg/logo-white.svg">
     <a href="$AbsoluteBaseURL">
